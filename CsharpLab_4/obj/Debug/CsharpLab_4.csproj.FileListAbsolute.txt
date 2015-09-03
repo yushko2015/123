@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2012\Projects\CsharpLab_4\CsharpLab_4\bin\Debug\CsharpLab_4.exe.config
+c:\users\user\documents\visual studio 2012\Projects\CsharpLab_4\CsharpLab_4\bin\Debug\CsharpLab_4.exe
+c:\users\user\documents\visual studio 2012\Projects\CsharpLab_4\CsharpLab_4\bin\Debug\CsharpLab_4.pdb
+c:\users\user\documents\visual studio 2012\Projects\CsharpLab_4\CsharpLab_4\obj\Debug\CsharpLab_4.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\CsharpLab_4\CsharpLab_4\obj\Debug\CsharpLab_4.exe
+c:\users\user\documents\visual studio 2012\Projects\CsharpLab_4\CsharpLab_4\obj\Debug\CsharpLab_4.pdb
